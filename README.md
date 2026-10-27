@@ -38,7 +38,7 @@ Para evitar el uso de plantillas de ataque estáticas o desactualizadas, se dise
 
 * **Fuentes monitorizadas:** INCIBE, CCN-CERT, vx-underground, DarkWebInformer, MalwareBazaar, OpenPhish, BleepingComputer, TheHackerNews, RansomfeedNews.
 * **Mecanismo:** Descarga e inspección de contenido mediante expresiones regulares (`re`) para detectar señuelos recurrentes (fraude de facturas, avisos urgentes de acceso, bypass de MFA, stealer/malware bancario).
-* **Salida estructurada:** Generación de alertas en formato JSON (`telegram_cti_feeds.json`) directamente mapeables a las campañas formativas.
+* **Salida estructurada:** Generación de alertas en formato JSON (`data/telegram_cti_feeds.json`) directamente mapeables a las campañas formativas.
 
 ### Ejecución del script:
 

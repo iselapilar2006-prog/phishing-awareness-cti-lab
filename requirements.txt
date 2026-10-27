@@ -1,0 +1,2 @@
+# El indexador utiliza módulos nativos de la librería estándar de Python 3.8+
+# (urllib.request, re, json, datetime, html, time). No requiere dependencias externas vía pip.

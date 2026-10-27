@@ -1,0 +1,255 @@
+[
+    {
+        "timestamp": "2026-10-27T18:29:23.086087+00:00",
+        "canal": "@incibe",
+        "patrones_detectados": [
+            "factura",
+            "urgente"
+        ],
+        "resumen": "Alerta sintética offline: detección de fraude en facturas o aviso de pago...",
+        "aplicacion_novatec": "Propuesto como plantilla para campaña GoPhish"
+    },
+    {
+        "timestamp": "2026-10-27T18:29:24.659300+00:00",
+        "canal": "@CCNCERT",
+        "patrones_detectados": [
+            "cuenta"
+        ],
+        "resumen": "La cuenta atrás ha comenzado   ⏳    Solo faltan 60 días para las XX Jornadas STIC: \"IA ofensiva y amenaza cuántica: hacia una nueva ciberseg...",
+        "aplicacion_novatec": "Propuesto como plantilla para campaña GoPhish"
+    },
+    {
+        "timestamp": "2026-10-27T18:29:26.430794+00:00",
+        "canal": "@vxunderground",
+        "patrones_detectados": [
+            "malware"
+        ],
+        "resumen": "> be malwrhunterteam  > on a legendary run on social media > find silly website > estrosa-dot-it > website for italian cosmetics > legit web...",
+        "aplicacion_novatec": "Propuesto como plantilla para campaña GoPhish"
+    },
+    {
+        "timestamp": "2026-10-27T18:29:26.431003+00:00",
+        "canal": "@vxunderground",
+        "patrones_detectados": [
+            "malware"
+        ],
+        "resumen": "Dawg, we've got MORE goop (malware) targeting the trucking industry  Holy cannoli, bro. This unidentified Threat Group is super persistent a...",
+        "aplicacion_novatec": "Propuesto como plantilla para campaña GoPhish"
+    },
+    {
+        "timestamp": "2026-10-27T18:29:26.431213+00:00",
+        "canal": "@vxunderground",
+        "patrones_detectados": [
+            "malware"
+        ],
+        "resumen": "> be me > get dm > \"smelly, i found goop\" > wtf i love goop (malware) > \"Someone in South Korea received a Fortinet installer, except the \"i...",
+        "aplicacion_novatec": "Propuesto como plantilla para campaña GoPhish"
+    },
+    {
+        "timestamp": "2026-10-27T18:29:26.431310+00:00",
+        "canal": "@vxunderground",
+        "patrones_detectados": [
+            "malware"
+        ],
+        "resumen": "> be me > get dm > \"smelly, i found goop\" > wtf i love goop (malware) > \"Someone in South Korea received a Fortinet installer, except the \"i...",
+        "aplicacion_novatec": "Propuesto como plantilla para campaña GoPhish"
+    },
+    {
+        "timestamp": "2026-10-27T18:29:26.431434+00:00",
+        "canal": "@vxunderground",
+        "patrones_detectados": [
+            "malware"
+        ],
+        "resumen": "There has been a glitch in the matrix. smica83 shared a heavily obfuscated .vbs which was first identified in Morocco, initially named \"nouv...",
+        "aplicacion_novatec": "Propuesto como plantilla para campaña GoPhish"
+    },
+    {
+        "timestamp": "2026-10-27T18:29:26.431870+00:00",
+        "canal": "@vxunderground",
+        "patrones_detectados": [
+            "malware"
+        ],
+        "resumen": "Chat, we've gone big league  Last time on Dragon Ball Z, a few weeks ago I made a crappy little video of me bonking goop (malware) with a st...",
+        "aplicacion_novatec": "Propuesto como plantilla para campaña GoPhish"
+    },
+    {
+        "timestamp": "2026-10-27T18:29:26.432038+00:00",
+        "canal": "@vxunderground",
+        "patrones_detectados": [
+            "malware"
+        ],
+        "resumen": "> be me > bonking goop (malware) > bonking for video im making > code looks familiar > too familiar > wait > oh no > theyre using my malcode...",
+        "aplicacion_novatec": "Propuesto como plantilla para campaña GoPhish"
+    },
+    {
+        "timestamp": "2026-10-27T18:29:26.432081+00:00",
+        "canal": "@vxunderground",
+        "patrones_detectados": [
+            "malware"
+        ],
+        "resumen": "> be me > bonking goop (malware) > bonking for video im making > code looks familiar > too familiar > wait > oh no > theyre using my malcode...",
+        "aplicacion_novatec": "Propuesto como plantilla para campaña GoPhish"
+    },
+    {
+        "timestamp": "2026-10-27T18:29:26.432134+00:00",
+        "canal": "@vxunderground",
+        "patrones_detectados": [
+            "malware"
+        ],
+        "resumen": "I have no way to know if they're using my actual code, but it is nearly identical under the hood and it's something I've done tons of times ...",
+        "aplicacion_novatec": "Propuesto como plantilla para campaña GoPhish"
+    },
+    {
+        "timestamp": "2026-10-27T18:29:26.432192+00:00",
+        "canal": "@vxunderground",
+        "patrones_detectados": [
+            "malware"
+        ],
+        "resumen": "The goop I chose to bonk for my video is one of the most sophisticated malwares I've seen in along time.  I'm actually in awe by the care th...",
+        "aplicacion_novatec": "Propuesto como plantilla para campaña GoPhish"
+    },
+    {
+        "timestamp": "2026-10-27T18:29:26.432254+00:00",
+        "canal": "@vxunderground",
+        "patrones_detectados": [
+            "malware"
+        ],
+        "resumen": "The goop I chose to bonk for my video is one of the most sophisticated malwares I've seen in along time.  I'm actually in awe by the care th...",
+        "aplicacion_novatec": "Propuesto como plantilla para campaña GoPhish"
+    },
+    {
+        "timestamp": "2026-10-27T18:29:26.432305+00:00",
+        "canal": "@vxunderground",
+        "patrones_detectados": [
+            "malware"
+        ],
+        "resumen": "Basically, it's all position independent, memory persistent, encoded, encrypted, and modular. This is unironically how malware is supposed t...",
+        "aplicacion_novatec": "Propuesto como plantilla para campaña GoPhish"
+    },
+    {
+        "timestamp": "2026-10-27T18:29:26.432364+00:00",
+        "canal": "@vxunderground",
+        "patrones_detectados": [
+            "malware"
+        ],
+        "resumen": "The goop I chose to bonk for my video is one of the most sophisticated malwares I've seen in along time.  I'm actually in awe by the care th...",
+        "aplicacion_novatec": "Propuesto como plantilla para campaña GoPhish"
+    },
+    {
+        "timestamp": "2026-10-27T18:29:26.432507+00:00",
+        "canal": "@vxunderground",
+        "patrones_detectados": [
+            "malware"
+        ],
+        "resumen": "Also, as far as this malware strain goes, I'm fairly certain some of the write-ups I've seen about this payload (or campaign) are wrong-ish....",
+        "aplicacion_novatec": "Propuesto como plantilla para campaña GoPhish"
+    },
+    {
+        "timestamp": "2026-10-27T18:29:26.432566+00:00",
+        "canal": "@vxunderground",
+        "patrones_detectados": [
+            "malware"
+        ],
+        "resumen": "Hello, Little People Living Inside Of My Computer,  I have made my first YouTube video. I am bonking goop (malware) with a stick. I've tried...",
+        "aplicacion_novatec": "Propuesto como plantilla para campaña GoPhish"
+    },
+    {
+        "timestamp": "2026-10-27T18:29:26.432623+00:00",
+        "canal": "@vxunderground",
+        "patrones_detectados": [
+            "malware"
+        ],
+        "resumen": "Hello, Little People Living Inside Of My Computer,  I have made my first YouTube video. I am bonking goop (malware) with a stick. I've tried...",
+        "aplicacion_novatec": "Propuesto como plantilla para campaña GoPhish"
+    },
+    {
+        "timestamp": "2026-10-27T18:29:26.432679+00:00",
+        "canal": "@vxunderground",
+        "patrones_detectados": [
+            "malware"
+        ],
+        "resumen": "1. I'm aware I pronounced Triage wrong. I don't know why I keep doing that.  2. A few times I said some numbers wrong.  3. I said ipinfo-dot...",
+        "aplicacion_novatec": "Propuesto como plantilla para campaña GoPhish"
+    },
+    {
+        "timestamp": "2026-10-27T18:29:29.545999+00:00",
+        "canal": "@BleepingComputer",
+        "patrones_detectados": [
+            "credential(s)?"
+        ],
+        "resumen": "Tailscale warns of SSH flaws allowing root privilege escalation   The Tailscale security team is working to patch almost a dozen security vu...",
+        "aplicacion_novatec": "Propuesto como plantilla para campaña GoPhish"
+    },
+    {
+        "timestamp": "2026-10-27T18:29:30.304279+00:00",
+        "canal": "@TheHackerNews",
+        "patrones_detectados": [
+            "credential(s)?"
+        ],
+        "resumen": "Get real AI adoption data  Every unused AI license is money that could go somewhere else.  NordLayer AI Scout gives you the answers on real ...",
+        "aplicacion_novatec": "Propuesto como plantilla para campaña GoPhish"
+    },
+    {
+        "timestamp": "2026-10-27T18:29:30.304600+00:00",
+        "canal": "@TheHackerNews",
+        "patrones_detectados": [
+            "malware"
+        ],
+        "resumen": "🚨   Microsoft Teams IT support scams are leading to malware and ransomware attacks.  Researchers tracked hundreds of cases where attackers f...",
+        "aplicacion_novatec": "Propuesto como plantilla para campaña GoPhish"
+    },
+    {
+        "timestamp": "2026-10-27T18:29:30.304811+00:00",
+        "canal": "@TheHackerNews",
+        "patrones_detectados": [
+            "malware"
+        ],
+        "resumen": "🚨   953 online stores infected in a stealthy malware campaign, most running Magento.  Hackers injected malicious JavaScript that filters out...",
+        "aplicacion_novatec": "Propuesto como plantilla para campaña GoPhish"
+    },
+    {
+        "timestamp": "2026-10-27T18:29:30.305266+00:00",
+        "canal": "@TheHackerNews",
+        "patrones_detectados": [
+            "credential(s)?"
+        ],
+        "resumen": "🚨   Ransomware attackers know your recovery plan. That's why they target your backups first.  Stolen admin credentials, deleted shadow copie...",
+        "aplicacion_novatec": "Propuesto como plantilla para campaña GoPhish"
+    },
+    {
+        "timestamp": "2026-10-27T18:29:30.305482+00:00",
+        "canal": "@TheHackerNews",
+        "patrones_detectados": [
+            "malware"
+        ],
+        "resumen": "🛑   Australia says it gained access to an Amadey malware operation's backend and cut off a cybercriminal's control over 180,000 infected com...",
+        "aplicacion_novatec": "Propuesto como plantilla para campaña GoPhish"
+    },
+    {
+        "timestamp": "2026-10-27T18:29:30.305574+00:00",
+        "canal": "@TheHackerNews",
+        "patrones_detectados": [
+            "malware"
+        ],
+        "resumen": "⚠️   Lazarus hackers are exploiting South Korean banking security software to deploy malware in a new espionage campaign.  The attacks use G...",
+        "aplicacion_novatec": "Propuesto como plantilla para campaña GoPhish"
+    },
+    {
+        "timestamp": "2026-10-27T18:29:30.306237+00:00",
+        "canal": "@TheHackerNews",
+        "patrones_detectados": [
+            "credential(s)?"
+        ],
+        "resumen": "⚠️   A Gemini agent in a security test reportedly accessed 3 real companies, one by guessing a password.  Anthropic says a fake “discounted ...",
+        "aplicacion_novatec": "Propuesto como plantilla para campaña GoPhish"
+    },
+    {
+        "timestamp": "2026-10-27T18:29:30.306484+00:00",
+        "canal": "@TheHackerNews",
+        "patrones_detectados": [
+            "phish(ing)?"
+        ],
+        "resumen": "⚠️   Fake login pages aren't just stealing passwords anymore.  AI makes phishing pages easier to clone and personalize. Some attacks go furt...",
+        "aplicacion_novatec": "Propuesto como plantilla para campaña GoPhish"
+    }
+]

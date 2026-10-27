@@ -1,0 +1,16 @@
+# Parámetros principales de Postfix para entorno de laboratorio seguro
+myhostname = mail.novatec.test
+mydomain = novatec.test
+myorigin = novatec.test
+mydestination = $myhostname, localhost.$mydomain, localhost, novatec.test
+
+# Escucha en todas las interfaces de red interna
+inet_interfaces = all
+inet_protocols = ipv4
+
+# Almacenamiento en buzón Maildir de usuario
+home_mailbox = Maildir/
+
+# Mitigación de Open Relay: solo se permite relay desde localhost (GoPhish)
+mynetworks = 127.0.0.0/8
+smtpd_relay_restrictions = permit_mynetworks, reject_unauth_destination

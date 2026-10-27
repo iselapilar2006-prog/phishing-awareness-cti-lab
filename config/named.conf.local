@@ -1,0 +1,5 @@
+// Configuración de zona local para el entorno de laboratorio NOVATEC
+zone "novatec.test" {
+    type master;
+    file "/etc/bind/db.novatec.test";
+};
